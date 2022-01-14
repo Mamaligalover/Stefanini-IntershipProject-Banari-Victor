@@ -1,0 +1,16 @@
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\InternshipProject.exe
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\InternshipProject.deps.json
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\InternshipProject.runtimeconfig.json
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\InternshipProject.runtimeconfig.dev.json
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\InternshipProject.dll
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\ref\InternshipProject.dll
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\bin\Debug\net5.0\InternshipProject.pdb
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.csproj.AssemblyReference.cache
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.AssemblyInfoInputs.cache
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.AssemblyInfo.cs
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.csproj.CoreCompileInputs.cache
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.dll
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\ref\InternshipProject.dll
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.pdb
+C:\Users\37361\source\repos\InternshipProject\InternshipProject\obj\Debug\net5.0\InternshipProject.genruntimeconfig.cache
